@@ -15,3 +15,10 @@ HTTP协议
 实习都干了什么
 Web项目中用户的认证
 java常用的容器，如何删除容器中的数据
+
+
+
+完美世界： 
+java 算法  数字转汉字，面试官说知道看剑指offer那些，不出那些上的题。
+抽象类和接口；String StringBuffer，StringBuild的区别；
+多线程wait，sleep ，yeld区别。
