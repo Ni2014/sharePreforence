@@ -1,0 +1,17 @@
+今日头条：
+1面：
+三道题：二分查找，堆排序，链表的翻转和合并。
+activity的生命周期，startActivity时两个activity的生命周期关系。
+Handler原理，使用Handler时注意的问题，Handlerthread使用。
+java强引用，弱引用，软引用 与 JVM   
+点击Button时事件在GrpView和Button中的处理
+实现单例的饿汉模式
+
+2面：
+最小公共子树
+socket概念、使用、注意事项和优化
+HTTP协议
+是否看过Android的官方教程
+实习都干了什么
+Web项目中用户的认证
+java常用的容器，如何删除容器中的数据
